@@ -1,6 +1,6 @@
-train: /kaggle/input/levir-ship-orig/train/images
-val: /kaggle/input/levir-ship-orig/val/images
-test: /kaggle/input/levir-ship-orig/test/images # when test, change "val" to "test"
+train: /kaggle/working/levir-ship-orig/train/images
+val: /kaggle/working/levir-ship-orig/val/images
+test: /kaggle/working/levir-ship-orig/test/images # when test, change "val" to "test"
 
 # number of classes
 nc: 1
