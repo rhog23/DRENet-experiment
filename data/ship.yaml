@@ -1,5 +1,6 @@
-train: ../../ForDRENet/finalDataSet/yolo/train/images/
-val: ../../ForDRENet/finalDataSet/yolo/val/images/  # when test, change "val" to "test"
+train: /kaggle/input/levir-ship/train/images
+val: /kaggle/input/levir-ship/val/images
+test: /kaggle/input/levir-ship/test/images # when test, change "val" to "test"
 
 # number of classes
 nc: 1
